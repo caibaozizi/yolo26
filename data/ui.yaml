@@ -1,0 +1,19 @@
+path: ../datasets/ui
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: text
+  1: button
+  2: input
+  3: image
+  4: icon
+  5: navigation
+  6: tab
+  7: checkbox
+  8: switch
+  9: card
+  10: list_item
+  11: modal
+  12: toolbar

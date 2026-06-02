@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 .DS_Store
 runs/
-datasets/
+outputs/
+datasets/ui/images/**/*.jpg
+datasets/ui/images/**/*.jpeg
+datasets/ui/images/**/*.png
+datasets/ui/images/**/*.bmp
+datasets/ui/images/**/*.webp
 *.pt
 *.onnx
